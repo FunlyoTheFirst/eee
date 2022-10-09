@@ -1,0 +1,30 @@
+.home-container1 {
+  width: 354px;
+  height: 100px;
+  display: flex;
+  z-index: 100;
+  position: relative;
+  align-self: auto;
+  align-items: flex-start;
+  justify-content: auto;
+  background-color: #D9D9D9;
+}
+.home-button {
+  right: 3px;
+  width: 348px;
+  bottom: 2px;
+  height: 50px;
+  position: absolute;
+  font-size: 24px;
+  font-style: normal;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  background-image: linear-gradient(to right, rgb(189, 195, 199) 0%, rgb(44, 62, 80) 100%);
+}
+.home-text {
+  font-style: normal;
+  font-weight: 400;
+}
